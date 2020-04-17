@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	font-family: 'Comic Neue', cursive;
+	font-size: 25px;
+	line-height: 35px;
+	background-color: lightyellow;
+
+}
+
+header{
+	background-color: maroon;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1{
+	color: white;
+	font-size: 50px;
+}
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid saddlebrown;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+
+}
+
+main img{
+	width: 100%
+}
+
+h2{
+
+	font-size: 35px;
+	color: maroon;
+	text-align: center;
+}
+a{
+	color: maroon;
+}
+a:hover{
+	color: white;
+	background-color: salmon;
+}
+footer{
+	background-color: maroon;
+	text-align: center;
+	font-size: 15px;
+	color: white;
+}
+
+footer a{
+	color: white;
+}
